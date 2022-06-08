@@ -1,0 +1,27 @@
+id: I7731EE50
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-29T15:37:21+00:00'
+last_modified: '2022-06-08T16:21:20.945882+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1AC310
+  title: 'རྒྱའི་ཡིག་ཚང་དུ་འཁོད་པའི་བོད་དང་འབྲེལ་བའི་ལོ་རྒྱུས། （༡）སྲིད་སྐྱོང་མེ་ལོང་ལས་བྱུང་བའི་བོད་བཙན་པོའི་དུས་ཀྱི་ལོ་རྒྱུས། '
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    18DB:
+      image_group_id: I4PD4207
+      title: ''
+      total_pages: 396
+      order: 1
+      base_file: 18DB.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
